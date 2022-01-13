@@ -5,7 +5,7 @@ Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert.
 In den Kapiteln finden Sie jeweils die Codebeispiel als *Jupyter Notebooks* (\*.ipynb-Dateien). 
 Sie können das komplette Repository entweder auf ihren Rechner herunterladen oder auf die Jupyter Notebooks direkt im Internet zugreifen 
 und den Code und die Resultate einsehen.<br><br>
-Wenn Sie das Repository herunterladen möchten, müssen Sie über *git* auf ihrem Rechner installiert haben. Die Software ist kostenlos verfügbar
+Wenn Sie das Repository herunterladen möchten, müssen Sie *git* auf ihrem Rechner installiert haben. Die Software ist kostenlos verfügbar
 zum Beispiel unter *https://git-scm.com/downloads*. Wenn Sie die Software installiert haben, können Sie das komplette Repository
 mit dem Befehl *git clone https://github.com/tplusone/hanser_deep_nlp.git* aus dem Terminal-Fenster lokal speichern.
 <br><br>
