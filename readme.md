@@ -24,7 +24,7 @@ Alternativ können Sie die notwendigen Bibliotheken natürlich auch manuell inst
 - scikit-learn, Version=0.22.1
 - tensorflow, Version=2.3.0
 - transformers, Version=4.10.2
-<br>
+
 ### Kontakt bei Fragen und Problemen
 Wenn Sie Fragen zum Code oder zum Buch haben, können Sie entweder hier auf *github* einen *Issue* eröffnen oder sich direkt per Mail
 an *tplusone[at]posteo.de* wenden.
