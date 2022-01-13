@@ -13,7 +13,7 @@ aus dem Terminal-Fenster mit folgendem Befehl lokal speichern:<br>
 Die Datei **environmet.yml** enthält alle Python-Bibliotheken, die zur Ausführung der Codebeispiele notwendig sind. 
 Wenn Sie eine virtuelle Umgebung in Anaconda anlegen möchten, die diese Bibliotheken enthält, navigieren Sie über das Anaconda-Terminalfenster
 (Anaconda Prompt) einfach in den Basisordner des Repositories (*deep_nlp*) und geben dann folgenden Befehl ein:<br>
-*conda env create -f environment.yml* <br>
+***conda env create -f environment.yml*** <br>
 Nach Fertigstellung der Environment lässt sich die Umgebung mit *conda activate deep_nlp* einfach aktivieren.<br>
 Alternativ können Sie die notwendigen Bibliotheken natürlich auch manuell installieren. Sie benötigen im Wesentlichen folgende Module:<br>
 - python, Version=3.7.6
