@@ -1,5 +1,4 @@
 ## Repository zum Hanser-Buch *Deep Natural Language Processing* (2022)
-<br><br>
 ### Arbeiten mit dem Repository 
 Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert. 
 In den Kapiteln finden Sie jeweils die Codebeispiel als *Jupyter Notebooks* (\*.ipynb-Dateien). 
