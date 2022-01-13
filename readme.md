@@ -3,8 +3,8 @@
 Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert. 
 In den Kapiteln finden Sie jeweils die Codebeispiel als *Jupyter Notebooks* (\*.ipynb-Dateien). 
 Sie können das komplette Repository entweder auf ihren Rechner herunterladen oder auf die Jupyter Notebooks direkt im Internet zugreifen 
-und den Code und die Resultate einsehen.<br><br>
-Abgesehen von den Codebeispieln finden Sie im Repository unter *Data* auch die Datendateien, die für die Beispiele aus dem Buch verwendet wurden.<br><br> 
+und den Code und die Resultate einsehen.<br>
+Abgesehen von den Codebeispieln finden Sie im Repository unter *Data* auch die Datendateien, die für die Beispiele aus dem Buch verwendet wurden.<br>
 Wenn Sie das Repository herunterladen möchten, müssen Sie die Software ***git*** auf ihrem Rechner installiert haben. Die Software ist kostenlos verfügbar
 zum Beispiel unter *https://git-scm.com/downloads*. Wenn Sie die Software installiert haben, können Sie das komplette Repository inklusive *Jupyter Notebooks* und *Datendateien*
 aus dem Terminal-Fenster mit folgendem Befehl lokal speichern:<br>
