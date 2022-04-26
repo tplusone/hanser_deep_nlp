@@ -1,4 +1,6 @@
 ## Repository zum Hanser-Buch *Deep Natural Language Processing* (2022)
+Hirschle, Jochen (2022): Deep Natural Language Processing. Einstieg in Word Embedding, Sequence-to-Sequence-Modelle und Transformer mit Python. München: Hanser.
+
 ### Arbeiten mit dem Repository 
 Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert. 
 In den Kapiteln finden Sie jeweils die Codebeispiel als *Jupyter Notebooks* (\*.ipynb-Dateien). 
